@@ -3,10 +3,10 @@
 REST est un style d’architecture qui repose sur le protocole HTTP. On accède à une ressource (par son URI unique) pour procéder à diverses opérations supportées nativement par HTTP.
 Il y a principales opérations:
 
-- GET: pour lire l'élément.
-- POST: pour en créer un.
-- PUT: pour le modifier.
-- DELETE: pour le supprimer.
+    - GET: pour lire l'élément.
+    - POST: pour en créer un.
+    - PUT: pour le modifier.
+    - DELETE: pour le supprimer.
 
 
 ###  Mise en place - Création des accès dans le Back Office
