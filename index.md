@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Tutoriel des WebServices (REST)
 
-You can use the [editor on GitHub](https://github.com/auction-online/webservice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+REST est un style d’architecture qui repose sur le protocole HTTP. On accède à une ressource (par son URI unique) pour procéder à diverses opérations supportées nativement par HTTP.
+Il y a principales opérations:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- GET: pour lire l'élément.
+- POST: pour en créer un.
+- PUT: pour le modifier.
+- DELETE: pour le supprimer.
 
-### Markdown
+
+###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
