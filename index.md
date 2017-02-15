@@ -9,9 +9,20 @@ Il y a principales opérations:
 - DELETE: pour le supprimer.
 
 
-###
+###  Mise en place - Création des accès dans le Back Office
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dans un premier temps nous allons créer un accès au service web.
+Pour ce faire il suffit d'aller dans votre Back Office dans l'onglet "Outils/Service Web".
+Dans un premier temps sélectionnez "Activer le service web" et cliquez sur enregistrer afin d'activer le service.
+
+Afin que le service web puisse fonctionner, vous devez générer/régénérer un fichier .htaccess.
+Toujours dans le back-office, rendez vous dans l'onglet "Outils/Générateurs" puis cliquez sur "Générer le fichier .htaccess"
+
+Retournez dans "Outils/Service Web"
+Cliquez sur "Nouveau", vous accédez à la page de permission et de définition de la "Clé".
+Cliquez sur "Générer", cela vous générera une clé d'authentification
+C'est grâce à cette clé d'authentification qu'il sera possible d'accéder au service web.
+Ensuite vous pouvez créer des droits pour chacunes des ressources auxquels vous souhaitez accéder.
 
 ```markdown
 Syntax highlighted code block
