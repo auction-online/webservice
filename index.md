@@ -18,6 +18,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 [Introduction et mise en place](intromep.md)
+[Premiers Pas WebServices](premierpas.md)
+[Réccuperer des données](getDonnees.mdf)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
